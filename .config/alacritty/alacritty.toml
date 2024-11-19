@@ -1,0 +1,21 @@
+# import = ["/home/chief/.config/alacritty/tomorrow-night.toml"]
+import = ["/home/chief/.config/alacritty/alduin.toml"]
+
+[shell]
+program = "/usr/bin/bash"
+
+[cursor.style]
+shape = "beam"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "Cascadia Code NF"
+
+[window]
+dynamic_title = true
+
+[window.dimensions]
+columns = 80
+lines = 24
