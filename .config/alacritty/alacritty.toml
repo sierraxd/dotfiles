@@ -1,5 +1,6 @@
-# import = ["/home/chief/.config/alacritty/tomorrow-night.toml"]
-import = ["/home/chief/.config/alacritty/alduin.toml"]
+# import = ["/home/chief/.config/alacritty/base16/tomorrow-night.toml"]
+# import = ["/home/chief/.config/alacritty/alduin.toml"]
+import = ["/home/chief/.config/alacritty/base16/black-metal.toml"]
 
 [shell]
 program = "/usr/bin/bash"
@@ -8,7 +9,7 @@ program = "/usr/bin/bash"
 shape = "beam"
 
 [font]
-size = 14.0
+size = 12.0
 
 [font.normal]
 family = "Cascadia Code NF"
